@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: SelfHostedPool  # Use the pool you created
+  name: Default  # Use the pool you created
 
 
 steps:
